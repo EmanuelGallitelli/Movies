@@ -1,4 +1,5 @@
 .moviesGrid{
+    margin: 0;
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
     gap: 40px;
@@ -10,5 +11,6 @@
     .moviesGrid{
         grid-template-columns: repeat(auto-fill, 135px);
         gap: 1px;
+        padding: 20px;
     }
 }
