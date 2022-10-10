@@ -18,12 +18,13 @@
     box-shadow: 0 0 10px azure;
 }
 
-@media (max-width:360px) {
+@media (max-width:320px) {
 
     .moviesCard {
         font-size: 1rem;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
+
     .moviesImage {
         width: 90%;
         height: auto;
