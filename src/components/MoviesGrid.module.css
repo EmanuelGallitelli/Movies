@@ -6,9 +6,9 @@
     justify-content: center;
 }
 
-@media (max-width:420px){
+@media (max-width:390px){
     .moviesGrid{
-        grid-template-columns: repeat(auto-fill, 160px);
+        grid-template-columns: repeat(auto-fill, 150px);
         gap: 1px;
     }
 }
