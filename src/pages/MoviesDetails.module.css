@@ -29,7 +29,7 @@ ion-icon{
 
 @media (max-width:460px) {
     .col {
-        width: 300px;
+        width: 250px;
     }
 
     .movieDetails {
