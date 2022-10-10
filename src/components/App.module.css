@@ -1,0 +1,10 @@
+.title {
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 0 0 50px rgb(52, 52, 250);
+}
+
+.title:hover {
+    transition: 0.5s;
+    text-shadow: 5px 5px 7px rgb(52, 52, 250);
+}

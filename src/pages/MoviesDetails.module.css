@@ -1,0 +1,38 @@
+.detailsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.col {
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.movieImage {
+    border-radius: 15px;
+}
+
+.movieDetails {
+    font-size: 1.4rem;
+}
+
+.firstItem {
+    margin-top: 0;
+}
+
+ion-icon{
+    color: yellow;
+}
+
+@media (max-width:460px) {
+    .col {
+        width: 300px;
+    }
+
+    .movieDetails {
+        font-size: 1rem;
+    }
+}
