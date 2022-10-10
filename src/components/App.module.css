@@ -1,7 +1,7 @@
 .title {
     text-align: center;
     font-size: 3rem;
-    text-shadow: 0 0 50px rgb(52, 52, 250);
+    text-shadow: 0 0 30px blue;
 }
 
 .title:hover {
