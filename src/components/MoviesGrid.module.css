@@ -9,7 +9,7 @@
 
 @media (max-width:460px) {
     .moviesGrid {
-        grid-template-columns: repeat(auto-fill, 140px);
+        grid-template-columns: repeat(auto-fill, 130px);
         gap: 20px;
         padding: 20px;
     }
