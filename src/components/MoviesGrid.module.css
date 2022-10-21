@@ -3,13 +3,14 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
     gap: 80px;
-    padding: 40px;
+    padding: 80px;
     justify-content: center;
 }
 
 @media (max-width:460px) {
     .moviesGrid {
-        grid-template-columns: repeat(auto-fill, 110px);
+        margin: -50px;
+        grid-template-columns: repeat(auto-fill, 180px);
         gap: 20px;
     }
 }
